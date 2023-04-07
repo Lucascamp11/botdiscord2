@@ -11,4 +11,4 @@ module.exports = {
 		.setDescription(`Meu ping é ${interaction.client.ws.ping}`)
 		await interaction.reply({ embeds: [embedPing], ephemeral: true});
 	},
-};
+};//ffff
